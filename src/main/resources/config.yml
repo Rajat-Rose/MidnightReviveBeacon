@@ -1,0 +1,4 @@
+# MidnightReviveBeacon Config
+revive-starting-hearts: 2
+beacon-item-name: "&c&lRevive Beacon"
+broadcast-revive-message: true
