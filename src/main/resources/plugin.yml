@@ -1,0 +1,11 @@
+name: MidnightReviveBeacon
+version: 1.0
+main: com.midnightsmp.midnightrevivebeacon.MidnightReviveBeacon
+api-version: 1.20
+commands:
+  giverevivebeacon:
+    description: Give custom revive beacon item
+    permission: midnightrevivebeacon.admin
+  revive:
+    description: Manually revive a player holding a beacon
+    permission: midnightrevivebeacon.use
